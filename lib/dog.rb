@@ -18,5 +18,3 @@ fido.name = "Fido"
 
 fido.name
 fido.bark
-
-
